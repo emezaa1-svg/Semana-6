@@ -1,0 +1,4 @@
+{
+  "tipo": "Iluminación pública",
+  "descripcion": "La luminaria de la calle 15 está defectuosa y parpadea constantemente."
+}

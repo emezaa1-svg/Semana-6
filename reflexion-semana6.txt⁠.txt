@@ -1,0 +1,10 @@
+💡 Reflexión:
+La implementación de servicios que procesan JSON es vital en la era digital actual.
+1. Permite la estandarización de la información ciudadana.
+2. Facilita la automatización de procesos administrativos.
+3. Reduce los errores humanos al capturar datos.
+4. Mejora la interoperabilidad entre aplicaciones web.
+5. Permite una respuesta inmediata a los reportes.
+6. Facilita el análisis de datos masivos para la toma de decisiones.
+7. Optimiza la asignación de recursos públicos.
+8. Fortalece la transparencia y la agilidad institucional.

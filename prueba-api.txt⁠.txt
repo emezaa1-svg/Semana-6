@@ -1,0 +1,3 @@
+🚀 Prueba de recepción:
+Al enviar un JSON vía POST a /registro, el servidor procesa los campos 'nombre' y 'mensaje'.
+Resultado esperado: Un objeto JSON que confirma "Datos recibidos" junto con la información enviada, validando la correcta lectura del req.body.
